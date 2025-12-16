@@ -5,3 +5,4 @@ for i in range(10):
     print(c,end=" ")
     a=b
     b=c
+    
